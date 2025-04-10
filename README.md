@@ -1,6 +1,6 @@
 # Hidden Markov Models for Stochastic Volatility Modelling
 
-This repository contains the implementation of Hidden Markov Models (HMMs) for stochastic volatility (SV) modeling, with a specific focus on financial mathematics. The project is based on the research paper by Roland Langrock, Iain L. MacDonald, and Walter Zucchini, and applies HMM approximations to analyze S&P 500 index data. 
+This repository contains the implementation of Hidden Markov Models (HMMs) for stochastic volatility (SV) modeling, with a specific focus on financial mathematics. The project is based on the research paper by Roland Langrock, Iain L. MacDonald, and Walter Zucchini, and applies HMM approximations to analyze S&P 500 index data. This project is part of the coursework for York University's Mathematics graduate course, MATH 6604 Probability Models.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -24,7 +24,7 @@ Key highlights include:
 - Backtesting with Value at Risk (VaR) analysis.
 
 ## Requirements
-The project is implemented in R. Below are the required dependencies:
+The project is implemented in R. Below are the required packages:
 - `dplyr`
 - `astsa`
 - `lubridate`
